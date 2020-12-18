@@ -100,14 +100,16 @@ body{
     flex-direction: column;
     align-items: center;
     justify-self: center;
+    border-radius: 5px;
+    padding-top: 1.3rem;
 }
 
 .time-display div span{
     display: block;
     font-size: 3rem;
-    font-weight: 400;
+    font-weight: 500;
     opacity: 0.9;
-    color: #cd5d7d;
+    color: #000;
 }
 
 .time-display div p{
